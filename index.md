@@ -1,4 +1,4 @@
-#SEcure Networks and Devices Laboratory
+# SEcure Networks and Devices Laboratory
 
 
 We are an [academic research group](people.md) at the [Rochester Institute of Technology](https://rit-sendlabs.github.io/).
