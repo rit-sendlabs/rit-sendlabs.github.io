@@ -1,4 +1,4 @@
-We are an academic research group at the Rochester Institute of Technology. 
+We are an [academic research group](people.md) at the [Rochester Institute of Technology](https://rit-sendlabs.github.io/). 
 Our focus is on Network and Internet Security.
 
 # Network Security? That's a Broad Area!
