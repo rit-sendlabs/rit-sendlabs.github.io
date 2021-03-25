@@ -1,7 +1,11 @@
-We are an [academic research group](people.md) at the [Rochester Institute of Technology](https://rit-sendlabs.github.io/). 
+#SEcure Networks and Devices Laboratory
+
+
+We are an [academic research group](people.md) at the [Rochester Institute of Technology](https://rit-sendlabs.github.io/).
+
 Our focus is on Network and Internet Security.
 
-# Network Security? That's a Broad Area!
+## Network Security? That's a Broad Area!
 
 True! There are various perspectives we can use to understand networks.
 - Networks themselves: the graph of connections
@@ -11,7 +15,7 @@ True! There are various perspectives we can use to understand networks.
 And network _security_ is particularly interesting, because it requires us to look at each of these in detail. 
 We can't just assume things work right; it's necessary to dig deep and check. 
 
-# What specific problems are you interested in?
+## What specific problems are you interested in?
 
 We are looking into the power of "smart switches". 
 
@@ -29,7 +33,7 @@ explored how to build true Decoy Routers using standard (OpenFlow) SDN.
 Our current big project is, to challenge the conventional wisdom that "P4 cannot do DPI". 
 Building on recent work from Nate Foster, we believe that it is possible to perform simple Deep-Packet-Inspection tasks.
 
-# That's the "devices" part. What about networks?
+## That's the "devices" part. What about networks?
 
 We are interested in complex algorithms, for network-related tasks, that can be implemented on these devices. 
 - multi-pathing algorithms for fault-tolerance.
